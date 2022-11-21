@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository here!](https://github.com/romina-gza/order-summary-component)
-- Live Site URL: [Live site URL here!]((https://your-live-site-url.com](https://htmlpreview.github.io/?https://github.com/romina-gza/order-summary-component/blob/master/public/index.html))
+- Live Site URL: [Live site URL here!](https://your-live-site-url.com](https://htmlpreview.github.io/?https://github.com/romina-gza/order-summary-component/blob/master/public/index.html)
 
 ## My process
 
