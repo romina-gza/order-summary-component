@@ -30,8 +30,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'desktop-bg': "url('../images/pattern-background-desktop.svg')",
-        'mobile-bg': "url('../images/pattern-background-mobile.svg')",
+        'desktop-bg': "url('/images/pattern-background-desktop.svg')",
+        'mobile-bg': "url('/images/pattern-background-mobile.svg')",
       }
     },
   },
